@@ -21,13 +21,9 @@ This project is a beginner-friendly real-time **American Sign Language (ASL) Alp
 
 ## Demo Screenshots
 
-| Upload Mode | Webcam Mode |
-|-------------|-------------|
-| ![Upload Demo](<img width="1680" alt="Screenshot 2025-04-09 at 11 47 13 PM" src="https://github.com/user-attachments/assets/675f5bef-6c10-48f6-9a59-5f1c1a6e7cf3" />
-) | ![Webcam Demo](<img width="1186" alt="Screenshot 2025-04-09 at 11 47 59 PM" src="https://github.com/user-attachments/assets/569746dd-9800-4996-af9b-bf0fc373982e" />
-) |
-
-> (Add your own screenshots inside a folder called `screenshots/`)
+| Upload Image Mode | Webcam Mode |
+|------------------|-------------|
+| ![Upload Demo](https://github.com/user-attachments/assets/675f5bef-6c10-48f6-9a59-5f1c1a6e7cf3) | ![Webcam Demo](https://github.com/user-attachments/assets/569746dd-9800-4996-af9b-bf0fc373982e) |
 
 ##  Project Structure
 
